@@ -1,3 +1,3 @@
 # https://www.interviewbit.com/blog/nmap-commands/
 
-nmap -sp 192.168.1.1/24
+sudo nmap -sP 192.168.1.0/24
